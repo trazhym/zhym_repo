@@ -2,7 +2,6 @@
 using namespace std;
 int main()
 {
-  cout<<"hello,git zhym test"<<endl;
-  cout<<"asdfasdfafsa";
+  cout<<"hello"<<endl;
   return 0;
 }
